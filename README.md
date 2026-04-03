@@ -33,16 +33,18 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Sandy-383&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Sandy-383&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandy-383&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandy-383&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+<br/>
+
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Sandy-383&theme=dark&hide_border=false)
+
+<br/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandy-383&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Sandy-383&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-## 🔬 Areas of Focus
+![Trophies](https://github-profile-trophy.vercel.app/?username=Sandy-383&theme=radical&no-frame=false&no-bg=true&margin-w=4)
